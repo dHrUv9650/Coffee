@@ -1,0 +1,16 @@
+.home {
+    min-height: 100vh; /* adjust the value as needed */
+    display: flex;
+    align-items: center;
+    background: url(../Images/home.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+    .btn {
+        font-size: 14px; /* adjust the value as needed / padding: 10px 20px; / adjust the value as needed */
+        }
+
+        .header.navbar a {
+            margin-right: 20px; /* adjust the value as needed */
+            }
